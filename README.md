@@ -13,7 +13,7 @@ sh reload.sh
 
 ### mysql
 mysql 在本地
-默认 mysql 密码在 /root/mysql.pwd
+默認 mysql 密碼在 /root/mysql.pwd
 
 ### redis
 redis 在本地
